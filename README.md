@@ -1,4 +1,6 @@
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
+
+<br>
 <h1 align="center">Hi 👋, I'm Painter Shreya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
