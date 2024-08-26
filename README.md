@@ -7,7 +7,8 @@
 <img align="right" alt="Coding" width="300" height="300" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
 
-
+<br/>
+<br/>
 <h3>
 🔭 I’m currently working on *Travel Blog Website*
 </h3>
@@ -17,6 +18,9 @@
 <h3 margin-bottom="200">
 📫 How to reach me *paintershreya@gmail.com*
 </h3>
+
+<br/>
+<br/>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
