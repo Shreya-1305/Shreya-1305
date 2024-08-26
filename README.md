@@ -10,9 +10,13 @@
 
 <h3>
 - 🔭 I’m currently working on *Travel Blog Website*
+</h3>
 
-- 🌱 I’m currently learning *Java, MERN stack, Data analysis*
+<h3>
+  - 🌱 I’m currently learning *Java, MERN stack, Data analysis*
 
+
+<h3>
 - 📫 How to reach me *paintershreya@gmail.com*
 </h3>
 
