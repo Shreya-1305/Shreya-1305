@@ -16,7 +16,7 @@
   - 🌱 I’m currently learning *Java, MERN stack, Data analysis*
 
 
-<h3>
+<h3 margin-bottom="200">
 - 📫 How to reach me *paintershreya@gmail.com*
 </h3>
 
