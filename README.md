@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Painter Shreya</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+<img align="right" alt="Coding" width="400" height="100" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
-<p align="center" height="100"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center" > <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3>
 - 🔭 I’m currently working on *Travel Blog Website*
