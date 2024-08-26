@@ -8,13 +8,15 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<h1>
+
 
 - 🔭 I’m currently working on *Travel Blog Website*
 
 - 🌱 I’m currently learning *Java, MERN stack, Data analysis*
 
 - 📫 How to reach me *paintershreya@gmail.com*
-
+</h1>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
