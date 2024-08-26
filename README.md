@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning *Java, MERN stack, Data analysis*
 
 - 📫 How to reach me *paintershreya@gmail.com*
-<br/>
+<p></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
