@@ -6,18 +6,16 @@
 
 <img align="right" alt="Coding" width="300" height="300" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
-<p align="center" > <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 <h3>
-- 🔭 I’m currently working on *Travel Blog Website*
+🔭 I’m currently working on *Travel Blog Website*
 </h3>
-
 <h3>
-  - 🌱 I’m currently learning *Java, MERN stack, Data analysis*
-
+🌱 I’m currently learning *Java, MERN stack, Data analysis*
 
 <h3 margin-bottom="200">
-- 📫 How to reach me *paintershreya@gmail.com*
+📫 How to reach me *paintershreya@gmail.com*
 </h3>
 
 <h1 align="left">Connect with me:</h1>
