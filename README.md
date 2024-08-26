@@ -6,17 +6,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center" height="100"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h1>
-
-
+<h3>
 - 🔭 I’m currently working on *Travel Blog Website*
 
 - 🌱 I’m currently learning *Java, MERN stack, Data analysis*
 
 - 📫 How to reach me *paintershreya@gmail.com*
-</h1>
+</h3>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
