@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Painter Shreya</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-<img align="right" alt="Coding" width="300" height="300" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+<img align="right" alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
 
 <br/>
-<br/>
+
 <h3>
 🔭 I’m currently working on *Travel Blog Website*
 </h3>
@@ -18,7 +18,7 @@
 </h3>
 
 <br/>
-<br/>
+
 
 
 ## GSSOC(24) Badges 🪶
