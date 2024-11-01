@@ -41,7 +41,7 @@
 </div>
 
   
-<br/>
+
 ## Hacktoberfest(24) Badges 🪶
 [![An image of @shreya1305's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreya1305)](https://holopin.io/@shreya1305)
 
