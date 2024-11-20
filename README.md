@@ -39,7 +39,7 @@
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/shreya-painter-389168249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-painter-389168249" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Shreya_painter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shreya_painter" height="30" width="40" /></a>
+<!-- <a href="https://leetcode.com/u/Shreya_painter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shreya_painter" height="30" width="40" /></a> -->
 <a href="https://www.geeksforgeeks.org/user/paintershreya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="paintershreya" height="30" width="40" /></a>
 </p>
 
