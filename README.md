@@ -8,7 +8,7 @@
 <br/>
 
 <h3>
-🔭 I’m currently working on *Travel Blog Website*
+🔭 I’m currently working on *AutoTestX project*
 </h3>
 <h3>
 🌱 I’m currently learning *Java, MERN stack, Data analysis*
