@@ -5,17 +5,17 @@
 
 <h2 align="center" style="color:#007acc;">👩‍💻 About Me</h2>
 
-<table width="100%" cellspacing="0" cellpadding="0" style="border: 2px solid #007acc; border-radius: 10px;">
+<table width="100%" cellspacing="0" cellpadding="0"  ">
   <tr>
-    <td width="70%" align="left" valign="top" style="padding: 30px 40px; font-size: 17px; line-height: 2; color: #ffffff;">
+    <td width="800em" align="left" valign="top" style="padding: 30px 40px; font-size: 17px; line-height: 2; color: #ffffff;">
       <p style="margin-bottom: 20px;">🚀 <strong>Passionate</strong> about building scalable full-stack applications.</p>
       <p style="margin-bottom: 20px;">🌱 <strong>Open-source contributor</strong> who loves collaborating and giving back to the community.</p>
       <p style="margin-bottom: 20px;">🔍 <strong>Currently seeking</strong> exciting internship opportunities to grow and contribute.</p>
       <p style="margin-bottom: 0;">📫 <strong>Reach me at:</strong> <a href="mailto:paintershreya@gmail.com" style="color:#00bfff;">paintershreya@gmail.com</a></p>
     </td>
-    <td width="30%" align="center" style="padding: 30px;">
+    <td width="200em" align="center" style="padding: 30px;">
       <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif"
-           width="180"
+           width="160"
            style="border: 2px solid #007acc; border-radius: 12px;" />
     </td>
   </tr>
@@ -28,10 +28,10 @@
 <table width="100%" align="center" border="2" style="border: 2px solid #007acc;">
   <tr>
     <td>
-      <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreya-1305&theme=2077" alt="GitHub Profile Summary"/>
+      <img width="500em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreya-1305&theme=2077" alt="GitHub Profile Summary"/>
     </td>
     <td>
-      <img width="430em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya-1305&theme=blue-green" alt="Streak Stats"/>
+      <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya-1305&theme=blue-green" alt="Streak Stats"/>
     </td>
   </tr>
 </table>
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://holopin.io/@shreya1305" target="_blank">
-    <img src="https://holopin.me/shreya1305" alt="Hacktoberfest Holopin Badgeboard" width="300"/>
+    <img src="https://holopin.me/shreya1305" alt="Hacktoberfest Holopin Badgeboard" width="1000"/>
   </a>
 </p>
 
@@ -51,12 +51,12 @@
 <h2 style="color:#007acc;">🪶 GSSOC 2024 Badges</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90" height="90" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90" height="90" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90" height="90" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90" height="90" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90" height="90" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90" height="90" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png"  width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png"  width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png"  width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png"  width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png"  width="100" height="100" />
 </p>
 
 ---
