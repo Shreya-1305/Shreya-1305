@@ -1,53 +1,114 @@
+<h1 align="center" style="color:#007acc;">Hi there 👋, I'm Shreya Painter</h1>
+<h3 align="center" style="color:#007acc;">💻 Full Stack Developer | Open Source Contributor</h3>
 
-<h1 align="center">Hi 👋, I'm Painter Shreya</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+---
 
-<img align="right" alt="Coding" width="200" height="200" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+<h2 align="center" style="color:#007acc;">👩‍💻 About Me</h2>
 
+<table width="100%" cellspacing="0" cellpadding="0" style="border: 2px solid #007acc; border-radius: 10px;">
+  <tr>
+    <td width="70%" align="left" valign="top" style="padding: 30px 40px; font-size: 17px; line-height: 2; color: #ffffff;">
+      <p style="margin-bottom: 20px;">🚀 <strong>Passionate</strong> about building scalable full-stack applications.</p>
+      <p style="margin-bottom: 20px;">🌱 <strong>Open-source contributor</strong> who loves collaborating and giving back to the community.</p>
+      <p style="margin-bottom: 20px;">🔍 <strong>Currently seeking</strong> exciting internship opportunities to grow and contribute.</p>
+      <p style="margin-bottom: 0;">📫 <strong>Reach me at:</strong> <a href="mailto:paintershreya@gmail.com" style="color:#00bfff;">paintershreya@gmail.com</a></p>
+    </td>
+    <td width="30%" align="center" style="padding: 30px;">
+      <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif"
+           width="180"
+           style="border: 2px solid #007acc; border-radius: 12px;" />
+    </td>
+  </tr>
+</table>
 
-<br/>
+---
 
-<h3>
-🔭 I’m currently working on *AutoTestX project*
-</h3>
-<h3>
-🌱 I’m currently learning *Java, MERN stack, Data analysis*
+<h2 style="color:#007acc;">📊 GitHub Highlights</h2>
 
-<h3 margin-bottom="200">
-📫 How to reach me *paintershreya@gmail.com*
-</h3>
+<table width="100%" align="center" border="2" style="border: 2px solid #007acc;">
+  <tr>
+    <td>
+      <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreya-1305&theme=2077" alt="GitHub Profile Summary"/>
+    </td>
+    <td>
+      <img width="430em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya-1305&theme=blue-green" alt="Streak Stats"/>
+    </td>
+  </tr>
+</table>
 
-<br/>
+---
 
+<h2 style="color:#007acc;">🎖 Hacktoberfest Badges</h2>
 
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</div>
-
-  
-
-## Hacktoberfest(24) Badges 🪶
-[![An image of @shreya1305's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreya1305)](https://holopin.io/@shreya1305)
-
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://www.linkedin.com/in/shreya-painter-389168249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreya-painter-389168249" height="30" width="40" /></a>
-<!-- <a href="https://leetcode.com/u/Shreya_painter/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Shreya_painter" height="30" width="40" /></a> -->
-<!-- <a href="https://www.geeksforgeeks.org/user/paintershreya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="paintershreya" height="30" width="40" /></a> -->
+<p align="center">
+  <a href="https://holopin.io/@shreya1305" target="_blank">
+    <img src="https://holopin.me/shreya1305" alt="Hacktoberfest Holopin Badgeboard" width="300"/>
+  </a>
 </p>
 
-<h1 align="left">Languages and Tools:</h1>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreya-1305&show_icons=true&locale=en&layout=compact" alt="Shreya-1305" /></p>
+<h2 style="color:#007acc;">🪶 GSSOC 2024 Badges</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya-1305&show_icons=true&locale=en" alt="Shreya-1305" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90" height="90" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90" height="90" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90" height="90" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90" height="90" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90" height="90" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90" height="90" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya-1305&" alt="Shreya-1305" /></p>
+---
+
+<h2 style="color:#007acc;">🛠️ Skills</h2>
+
+<table width="100%" align="center" border="2" style="border: 2px solid #007acc;">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="40"/><br>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40"/><br>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python</td>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/><br>Postman</td>
+    <td align="center"><img src="https://upload.vectorlogo.zone/logos/langchain/images/06d3d185-9e54-4a36-ae5a-5b1d82d59e2b.svg" width="30"/><br>LangChain</td>
+  </tr>
+  <tr>
+    <td colspan="6" align="center">
+      <img src="https://avatars.githubusercontent.com/u/162706523?s=200&v=4" width="30"/><br>LangGraph
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 style="color:#007acc;">🏆 GitHub Trophies</h2>
+
+<table width="100%" align="center" border="2" style="border: 2px solid #007acc;">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=Shreya-1305&theme=darkhub&margin-w=10&no-bg=true&no-frame=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 style="color:#007acc;">🔗 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreya-painter-389168249/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:paintershreya@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
+  </a>
+</p>
